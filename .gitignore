@@ -1,0 +1,4 @@
+*.log
+*.[abcd]
+*.o
+*.xlsl
